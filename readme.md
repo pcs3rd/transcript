@@ -1,0 +1,1 @@
+https://github.com/collabora/WhisperLive?tab=readme-ov-file#running-the-client

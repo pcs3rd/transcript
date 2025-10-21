@@ -5,3 +5,4 @@ torch
 faster-whisper
 translatepy
 nltk
+whisper
